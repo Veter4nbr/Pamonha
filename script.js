@@ -1,6 +1,6 @@
 
 function sim(){
-            alert("Você aceitou! <3")
+            alert("Você aceitou! Te amo muito Pamonha! <3")
         }
 
         function desvia(t){
